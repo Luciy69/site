@@ -310,3 +310,93 @@ border: 1px solid #000000;
     padding-left: -55px; 
 
 }
+.cub1 {
+    /* Rectangle 12 */
+
+box-sizing: border-box;
+
+width: 671.79px;
+height: 316.08px;
+
+border: 1px solid rgba(0, 0, 0, 0.3);
+border-radius: 35px;
+
+}
+.podel {
+    Position: absolute;
+    margin:-195px 30px;
+    padding-left: 85px; 
+    color: grey; 
+}
+.knopka3{
+    border: 1px solid black;
+    display: inline-block;
+    Position: absolute;
+    margin:-95px 90px;
+    width: 250px;
+    height: 40px;
+    color: green; 
+}
+.cub2{
+/* Rectangle 14 */
+
+box-sizing: border-box;
+
+margin:25px 10px;
+width: 352.75px;
+height: 262.03px;
+
+border: 1px solid rgba(0, 0, 0, 0.3);
+border-radius: 35px;
+}
+.cub3{
+/* Rectangle 15 */
+
+box-sizing: border-box;
+
+position: absolute;
+margin:-286px 370px;
+width: 592.77px;
+height: 262.03px;
+
+border: 1px solid rgba(0, 0, 0, 0.3);
+border-radius: 35px;
+}
+.zvyz {
+    Position: absolute;
+    margin:-195px 30px;
+    padding-left: 85px; 
+    color: grey; 
+}
+.nomer {
+    Position: absolute;
+    margin:-125px 40px;
+    padding-left: 85px; 
+    color: grey; 
+}
+.znaki {
+    Position: absolute;
+    margin:-85px 40px;
+    padding-left: 85px; 
+}
+.znaki1 {
+    Position: absolute;
+    margin:-85px 90px;
+    padding-left: 85px; 
+}
+.znaki2 {
+    Position: absolute;
+    margin:-85px 145px;
+    padding-left: 85px; 
+}
+.spiski {
+    Position: absolute;
+    margin:-215px 335px;
+    padding-left: 85px; 
+}
+.spiski1 {
+    Position: absolute;
+    margin:-219px 605px;
+    padding-left: 85px; 
+    
+}
