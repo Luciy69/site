@@ -1,6 +1,4 @@
-User-agent: * #указывает, для каких роботов установлены директивы
-Disallow: /bin/ # запрещает ссылки из "Корзины с товарами".
-Disallow: /search/ # запрещает ссылки страниц встроенного на сайте поиска
-Disallow: /admin/ # запрещает ссылки из панели администратора
-Sitemap: http://example.com/sitemap # указывает роботу на файл Sitemap для сайта
-Clean-param: ref /some_dir/get_book.pl
+User-agent: *
+Disallow: 
+Host: luciy69.github.io/site/main.html
+Sitemap: http://luciy69.github.io/site/main.html/sitemap.xml
